@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: rosmedia
+Contributors: btradegroup
 Tags: credit card payment, recurring billing, recurring donation, recurring, paypal
 Requires at least: 4.7
 Tested up to: 5.6
